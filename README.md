@@ -1,5 +1,5 @@
 <h2 align="center">Hi :blush:</h2>
-<p>My name is Dinobergue Viana, but you can call me Dino. Since 2021, after change carear, I work as a frontend developer.</p>
+<p>My name is Dinobergue Viana, but you can call me Dino. Since 2021, after change career, I work as a frontend developer.</p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=dinobergviana&label=Profile%20views&color=19b40e&style=flat-square" alt="dinobergviana"></p>
 
 <h4>I'm also on:</h4>
